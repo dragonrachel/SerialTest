@@ -3,7 +3,7 @@
 #导入程序运行必须模块
 import os
 import sys
-import subprocess
+#import subprocess
 import threading
 import time
 import psutil
